@@ -1,0 +1,1 @@
+borg init --encryption=repokey /Volumes/Shares/Data/BorgBackup
